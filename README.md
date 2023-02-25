@@ -1,2 +1,2 @@
 # Minsait_BI
-Olá!
+Repositório para as atividades da Capacitação em BI oferecido pela Minsait
